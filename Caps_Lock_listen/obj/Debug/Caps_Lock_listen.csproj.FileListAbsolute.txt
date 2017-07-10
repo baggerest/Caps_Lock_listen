@@ -1,0 +1,9 @@
+D:\vs2017\c#\Caps_Lock_listen\Caps_Lock_listen\bin\Debug\Caps_Lock_listen.exe.config
+D:\vs2017\c#\Caps_Lock_listen\Caps_Lock_listen\bin\Debug\Caps_Lock_listen.exe
+D:\vs2017\c#\Caps_Lock_listen\Caps_Lock_listen\bin\Debug\Caps_Lock_listen.pdb
+D:\vs2017\c#\Caps_Lock_listen\Caps_Lock_listen\obj\Debug\Caps_Lock_listen.csprojResolveAssemblyReference.cache
+D:\vs2017\c#\Caps_Lock_listen\Caps_Lock_listen\obj\Debug\Caps_Lock_listen.Properties.Resources.resources
+D:\vs2017\c#\Caps_Lock_listen\Caps_Lock_listen\obj\Debug\Caps_Lock_listen.csproj.GenerateResource.Cache
+D:\vs2017\c#\Caps_Lock_listen\Caps_Lock_listen\obj\Debug\Caps_Lock_listen.exe
+D:\vs2017\c#\Caps_Lock_listen\Caps_Lock_listen\obj\Debug\Caps_Lock_listen.pdb
+D:\vs2017\c#\Caps_Lock_listen\Caps_Lock_listen\obj\Debug\Caps_Lock_listen.Form1.resources
